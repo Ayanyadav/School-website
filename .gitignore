@@ -1,0 +1,4 @@
+node_modules
+debug.log
+client/.gitignore
+client/.eslintcache
